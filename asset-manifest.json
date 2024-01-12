@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/voice_to_text_converter/static/css/main.2bc54c23.css",
+    "main.js": "/voice_to_text_converter/static/js/main.2f669702.js",
+    "static/js/787.ed518d43.chunk.js": "/voice_to_text_converter/static/js/787.ed518d43.chunk.js",
+    "index.html": "/voice_to_text_converter/index.html",
+    "main.2bc54c23.css.map": "/voice_to_text_converter/static/css/main.2bc54c23.css.map",
+    "main.2f669702.js.map": "/voice_to_text_converter/static/js/main.2f669702.js.map",
+    "787.ed518d43.chunk.js.map": "/voice_to_text_converter/static/js/787.ed518d43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc54c23.css",
+    "static/js/main.2f669702.js"
+  ]
+}
